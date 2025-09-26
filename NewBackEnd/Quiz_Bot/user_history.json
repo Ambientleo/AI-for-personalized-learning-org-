@@ -1,0 +1,114 @@
+{
+  "anonymous": {
+    "quizzes": [
+      {
+        "id": "22d25880-95e6-4b7e-ac7a-f4a22540d3ef",
+        "timestamp": "2025-06-16T08:59:49.936601+00:00",
+        "topic": "Unknown",
+        "source_type": "topic",
+        "num_questions": 5,
+        "score": 3,
+        "total_questions": 5,
+        "score_percentage": 60.0,
+        "ollama_used": false,
+        "questions": [
+          {
+            "correct_answer": "B",
+            "explanation": "Git branches allow developers to work on different features or fixes independently without affecting the main codebase. This is especially useful when working on multiple features simultaneously.",
+            "options": [
+              "A) To track changes made to a file",
+              "B) To create a separate line of development for features or fixes",
+              "C) To backup your code repository",
+              "D) To collaborate with team members"
+            ],
+            "question": "What is the primary purpose of a Git branch?",
+            "type": "mcq"
+          },
+          {
+            "correct_answer": "git add",
+            "explanation": "The 'git add' command is used to stage changes, preparing them for a future commit. This command updates the index with the specified files or directories.",
+            "question": "The command _____ is used to stage changes in a Git repository.",
+            "type": "fill_blank"
+          },
+          {
+            "correct_answer": "True",
+            "explanation": "Git is designed to be used on a single machine, but it can also be used in a distributed manner. This means that multiple developers can collaborate by sharing their local repositories with each other.",
+            "question": "Git is a distributed version control system.",
+            "type": "true_false"
+          },
+          {
+            "correct_answer": "A",
+            "explanation": "The 'git log' command displays the commit history of a Git repository, showing the commits in chronological order. This can be useful for tracking changes over time or identifying specific commits.",
+            "options": [
+              "A) Show the commit history of a repository",
+              "B) Create a new branch from an existing one",
+              "C) Revert a previous commit",
+              "D) Delete a file"
+            ],
+            "question": "What does the 'git log' command do?",
+            "type": "mcq"
+          },
+          {
+            "correct_answer": "A",
+            "explanation": "When working with multiple branches, Git merge is used to combine the changes made in those branches into a single branch. This process can help resolve conflicts between different branches.",
+            "options": [
+              "A) To resolve conflicts between different branches",
+              "B) To create a new branch from an existing one",
+              "C) To revert a previous commit",
+              "D) To delete a file"
+            ],
+            "question": "What is the purpose of a Git merge?",
+            "type": "mcq"
+          }
+        ],
+        "results": [
+          {
+            "question_index": 0,
+            "is_correct": false,
+            "user_answer": "A",
+            "correct_answer": "B",
+            "explanation": "Git branches allow developers to work on different features or fixes independently without affecting the main codebase. This is especially useful when working on multiple features simultaneously."
+          },
+          {
+            "question_index": 1,
+            "is_correct": false,
+            "user_answer": "s",
+            "correct_answer": "git add",
+            "explanation": "The 'git add' command is used to stage changes, preparing them for a future commit. This command updates the index with the specified files or directories."
+          },
+          {
+            "question_index": 2,
+            "is_correct": true,
+            "user_answer": "True",
+            "correct_answer": "True",
+            "explanation": "Git is designed to be used on a single machine, but it can also be used in a distributed manner. This means that multiple developers can collaborate by sharing their local repositories with each other."
+          },
+          {
+            "question_index": 3,
+            "is_correct": true,
+            "user_answer": "A",
+            "correct_answer": "A",
+            "explanation": "The 'git log' command displays the commit history of a Git repository, showing the commits in chronological order. This can be useful for tracking changes over time or identifying specific commits."
+          },
+          {
+            "question_index": 4,
+            "is_correct": true,
+            "user_answer": "A",
+            "correct_answer": "A",
+            "explanation": "When working with multiple branches, Git merge is used to combine the changes made in those branches into a single branch. This process can help resolve conflicts between different branches."
+          }
+        ],
+        "input_content": "",
+        "filename": "",
+        "url": ""
+      }
+    ],
+    "chats": [],
+    "topics": [
+      {
+        "id": "556b5522-b702-40b5-b113-6272d2e12a2f",
+        "topic": "python",
+        "count": 1,
+        "first_used": "2025-06-16T08:29:41.812219+00:00",
+        "last_used": "2025-06-16T08:29:41.812219+00:00",
+        "source_types": 

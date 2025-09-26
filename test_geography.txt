@@ -1,0 +1,15 @@
+Geography is the study of the lands, features, inhabitants, and phenomena of Earth. It is an all-encompassing discipline that seeks an understanding of Earth and its human and natural complexities.
+
+Key concepts in geography include:
+- Physical geography: Study of Earth's physical features like mountains, rivers, and climate
+- Human geography: Study of human populations, cultures, and their interactions with the environment
+- Cartography: The science and art of map-making
+- Geographic Information Systems (GIS): Computer systems for capturing and analyzing geographic data
+
+Important geographic features:
+- The Amazon River is the largest river by discharge volume
+- Mount Everest is the highest peak above sea level
+- The Pacific Ocean is the largest and deepest ocean
+- The Sahara Desert is the largest hot desert in the world
+
+Geography helps us understand spatial relationships and how different places are connected through trade, migration, and environmental processes. 
